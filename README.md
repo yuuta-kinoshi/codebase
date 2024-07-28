@@ -5,10 +5,9 @@ This template provides a minimal setup to run React on Vite with HMR. The codeba
 
 ```
 git clone https://github.com/yuuta-kinoshi/codebase.git
-
+```
+```
 cd codebase
-
-npm install
-
-npm run dev
+pnpm install
+pnpm run dev
 ```
