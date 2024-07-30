@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 /* Yuuta Kinoshi's color palette */
 :root {
   --bg-color: #11111f;
