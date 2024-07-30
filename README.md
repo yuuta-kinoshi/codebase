@@ -15,6 +15,12 @@ cd codebase
 pnpm install
 pnpm run dev
 ```
+#### With NPM
+```
+cd codebase
+npm install
+npm run dev
+```
 
 ### Credits
 Code Base builted by [Yuuta Kinoshi](https://github.com/yuuta-kinoshi)
