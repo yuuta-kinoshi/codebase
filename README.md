@@ -22,5 +22,10 @@ npm install
 npm run dev
 ```
 
+### Tailwind
+```
+npx tailwindcss -i ./src/input.css -o ./src/output.css --watch
+```
+
 ### Credits
 Code Base builted by [Yuuta Kinoshi](https://github.com/yuuta-kinoshi)
